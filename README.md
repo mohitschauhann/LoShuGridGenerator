@@ -35,7 +35,7 @@ git clone https://github.com/mohitschauhann/LoShuGridGenerator.git
 
 ## Contributors
 
-[Mohit Singh Chauhan](https://www.linkedin.com/in/mohitschauhann-/)
+[Mohit Singh Chauhan](https://www.linkedin.com/in/mohitschauhann/)
 
 ## License
 
